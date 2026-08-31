@@ -33,8 +33,8 @@ Installation Steps
 Clone the Repository:
 
 Bash
-git clone https://github.com/Tanmay-Bokade/RedFlag-Fraud-Detection.git
-cd RedFlag-Fraud-Detection
+git clone https://github.com/Tanmay-Bokade/RedFlag-Fraud-Detection.git <br>
+cd RedFlag-Fraud-Detection <br>
 Configure Workbench Timeout (Recommended for Large Files):
 
 Open MySQL Workbench.
