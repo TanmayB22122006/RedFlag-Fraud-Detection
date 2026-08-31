@@ -54,7 +54,7 @@ Run Fraud Detection Queries:
 Open a new query tab in MySQL Workbench.
 
 Load and execute queries from RedFlag_Tanmay.sql section by section to view flagged suspect logs and verify analytical findings.
-
+Drive Link: [Link](https://drive.google.com/drive/folders/1FCYzKa47rZcWRv0HRQ6OTXqhg93k5CRB?usp=sharing)
 👨‍💻 About the Author
 Tanmay Purushottam Bokade
 
