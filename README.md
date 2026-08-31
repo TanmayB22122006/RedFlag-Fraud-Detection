@@ -62,6 +62,6 @@ Computer Engineering Student @ VESIT | Tech, AI & Data Enthusiast
 
 Let's connect and build cool things!
 
-💼 LinkedIn: linkedin.com/in/tanmay-bokade
+💼 LinkedIn: [linkedin.com/in/tanmay-bokade](https://www.linkedin.com/in/tanmay-bokade-210280345/)
 
-🐙 GitHub: github.com/Tanmay-Bokade
+🐙 GitHub:[ github.com/Tanmay-Bokade](https://github.com/TanmayB22122006/)
